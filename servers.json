@@ -1,5 +1,3 @@
-SyntaxError: JSON.parse: expected double-quoted property name at line 60 column 25 of the JSON data
-
 {
   "servers": [
     {
